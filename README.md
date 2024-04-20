@@ -5,6 +5,6 @@
 # installion
 
    - `git clone https://github.com/aymensecurity/parrot-zsh-shell.git`
-   - `cd parrot-zsh`
+   - `cd parrot-zsh-shell`
    - `bash install.sh`
   
